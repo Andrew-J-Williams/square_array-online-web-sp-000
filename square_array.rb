@@ -3,7 +3,7 @@ def square_array(array)
   count = 0
 
   array.each do |square|
-    
+    new_var = square[count]
   end
 
 end
