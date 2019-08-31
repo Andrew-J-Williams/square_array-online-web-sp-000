@@ -5,6 +5,7 @@ def square_array(array)
   array.each do |square|
     new_var = square[count]
     new_var**2
+    
   end
 
 end
